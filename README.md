@@ -1,5 +1,12 @@
 ### 안녕하세요 김종현 입니다. 👋
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=00599C"/>
+
+
+
+
+
+
 <!--
 **Jameskimjh/JamesKimjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
