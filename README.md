@@ -1,6 +1,6 @@
-### 안녕하세요 김종현 입니다. 👋
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=00599C"/>
+### 안녕하세요 김종현 입니다. 👋  
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
 
 
 
